@@ -14,7 +14,6 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 3
 
-   Guia do Usuário Web
-   Guia do Administrador
-   Guia do Aplicativo Móvel
+   overview/index.rst
