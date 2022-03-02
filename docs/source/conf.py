@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'LandiFy'
+copyright = '2022, SystemRaise Tecnologia LTDA'
+author = 'SystemRaise Tecnologia LTDA'
 
 release = '0.1'
 version = '0.1.0'
